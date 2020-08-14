@@ -18,8 +18,6 @@ def kata(s):
         time.sleep(1./25)
 clear()
 print ("""
-\033[1;97m\tBOT SUB4SUB
-\033[90m\t------------
 \033[1;97m[\033[1;93m•\033[1;97m]Creator:\033[1;96mFahmiApz
 \033[1;97m[\033[1;93m•\033[1;97m]Youtube:\033[1;96mApmzChannel
 \033[1;97m[\033[1;93m•\033[1;97m]Github :\033[4;92mgithub.com/BangDanz\033[00m
