@@ -19,8 +19,8 @@ def kata(s):
 clear()
 print ("""
 \033[1;97m[\033[1;93m•\033[1;97m]Creator:\033[1;96mFahmiApz
-\033[1;97m[\033[1;93m•\033[1;97m]Youtube:\033[1;96mApmzChannel
-\033[1;97m[\033[1;93m•\033[1;97m]Github :\033[4;92mgithub.com/BangDanz\033[00m
+\033[1;97m[\033[1;93m•\033[1;97m]Youtube:\033[1;96mKnifer12
+\033[1;97m[\033[1;93m•\033[1;97m]Github :\033[4;92mgithub.com/BladeKnife\033[00m
 \033[90m________________________________________________""")
 f=input("""
 \033[1;97m1. \033[1;96mEarn Point
